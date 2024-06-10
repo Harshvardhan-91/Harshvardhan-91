@@ -1,4 +1,4 @@
-## Hi this side Harshvardhan Agarwal, from NIT Jalandhar 👋
+## Hi this side Harshvardhan Agarwal, from NIT Jalandhar
 
 <!--
 **Harshvardhan-91/Harshvardhan-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
