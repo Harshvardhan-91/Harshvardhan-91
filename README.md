@@ -1,10 +1,8 @@
 <h1 align="center">Hii This side Harshvardhan Agarwal, from NIT Jalandhar</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me</h3>
-<p align="left">
+<p align="left"> <h3>Connect: </h3>
 <a href="https://linkedin.com/in/harshvardhan-agarwal-605931281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhan-agarwal-605931281" height="30" width="40" /></a>
 <a href="https://instagram.com/harshvardhan_5579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhan_5579" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/agarwalharsh12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agarwalharsh12" height="30" width="40" /></a>
