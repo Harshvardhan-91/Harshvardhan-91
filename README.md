@@ -1,6 +1,10 @@
 <h1 align="Center">  Hi There ,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />  I'm Harshvardhan</h1>
 <h3 align="center">A passionate full stack web developer</h3>
-<p align="left"> <h3>Connect</h3>
+<h2><a target="_blank">
+  <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/Handshake.gif?raw=true" height="30px" style="max-width:100%;">
+  </a>
+  Let's Connect :
+</h2>
 <a href="https://linkedin.com/in/harshvardhan-agarwal-605931281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhan-agarwal-605931281" height="30" width="40" /></a>
 <a href="https://instagram.com/harshvardhan_5579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhan_5579" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/agarwalharsh12" target="blank"><img align="center" src="https://img.icons8.com/color/480w/codechef.png" alt="agarwalharsh12" height="30" width="40" /></a>
