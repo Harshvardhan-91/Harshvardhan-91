@@ -3,7 +3,7 @@
 <h2><a target="_blank">
   <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/Handshake.gif?raw=true" height="30px" style="max-width:100%;">
   </a>
-Let's Connect :
+Socials :
 </h2>
 <p  align="center" style="padding:10px;"><a href="https://linkedin.com/in/harshvardhan-agarwal-605931281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshvardhan-agarwal-605931281" height="30" width="40" /></a>
 <a href="https://instagram.com/harshvardhan_5579" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshvardhan_5579" height="30" width="40" /></a>
