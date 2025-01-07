@@ -1,5 +1,6 @@
 <h1 align="Center">  Hi There ,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />  I'm Harshvardhan</h1>
 <h3 align="center">A passionate full stack web developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhan-91&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhan-91" /> </p>
 <h2><a target="_blank">
   <img src="https://github.com/ravinder-chadha/ravinder-chadha/blob/master/assets/Handshake.gif?raw=true" height="30px" style="max-width:100%;">
   </a>
