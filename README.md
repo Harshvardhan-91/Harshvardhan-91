@@ -22,30 +22,6 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px"> **Connect & Collaborate**
-
-<div align="center">
-
-<p>
-  <a href="https://harshdev.me">
-    <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" title="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/harshvardhan-agarwal-605931281/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn"/>
-  </a>
-  <a href="mailto:agarwalharshvardhan081@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email"/>
-  </a>
-  <a href="https://x.com/Harshag_91">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="48" height="48" alt="X (Twitter)" title="X (Twitter)"/>
-  </a>
-  <a href="https://instagram.com/harshvardhan_5579">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram"/>
-  </a>
-</p>
-
-</div>
-
 <br>
 
 <div align="center">
@@ -99,11 +75,35 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harshvardhan-91&show_icons=true&theme=tokyonight&hide_border=true&background=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan-91&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshvardhan-91&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-91&layout=compact&theme=tokyonight&hide_border=true&background=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-91&layout=compact&theme=tokyonight&hide_border=true&background=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32px"> **Connect & Collaborate**
+
+<div align="center">
+
+<p>
+  <a href="https://harshdev.me">
+    <img src="https://skillicons.dev/icons?i=portfolio" alt="Portfolio" title="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/harshvardhan-agarwal-605931281/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  <a href="mailto:agarwalharshvardhan081@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" title="Email"/>
+  </a>
+  <a href="https://x.com/Harshag_91">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="48" height="48" alt="X (Twitter)" title="X (Twitter)"/>
+  </a>
+  <a href="https://instagram.com/harshvardhan_5579">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram"/>
+  </a>
+</p>
+
 </div>
 
 <div align="center">
