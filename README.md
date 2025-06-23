@@ -79,7 +79,7 @@
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-91&layout=compact&theme=tokyonight&hide_border=true&background=0D1117&title_color=00D9FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshvardhan-91&layout=compact&theme=tokyonight&hide_border=true&background=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 </div>
 
 
