@@ -66,7 +66,7 @@
 🌱 Learning: GenAI, DeveOps and microservices
 👯 Looking to collaborate on: Open Source Projects & Innovative Startups  
 💼 Open for: Freelance Projects, Full-time Opportunities & Internships
-🎯 2024 Goals: Contribute to Open Source & Master Cloud Native Technologies
+🎯 2025 Goals: Contribute to Open Source & Master Cloud Native Technologies
 ```
 
 <br>
