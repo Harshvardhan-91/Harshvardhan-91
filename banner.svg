@@ -1,0 +1,62 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#30363d;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#30363d;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#30363d;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#30363d;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e6edf3"/>
+      <stop offset="100%" style="stop-color:#8b949e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="280" fill="#0d1117" rx="6"/>
+  <rect width="900" height="280" fill="none" stroke="#21262d" stroke-width="1" rx="6"/>
+  <line x1="0" y1="70" x2="900" y2="70" stroke="#161b22" stroke-width="1"/>
+  <line x1="0" y1="140" x2="900" y2="140" stroke="#161b22" stroke-width="1"/>
+  <line x1="0" y1="210" x2="900" y2="210" stroke="#161b22" stroke-width="1"/>
+  <line x1="200" y1="0" x2="200" y2="280" stroke="#161b22" stroke-width="1"/>
+  <line x1="450" y1="0" x2="450" y2="280" stroke="#161b22" stroke-width="1"/>
+  <line x1="700" y1="0" x2="700" y2="280" stroke="#161b22" stroke-width="1"/>
+  <circle cx="36" cy="36" r="3" fill="#238636"/>
+  <circle cx="36" cy="36" r="6" fill="none" stroke="#238636" stroke-width="1" opacity="0.4"/>
+  <text x="52" y="41" font-family="Courier New, monospace" font-size="11" fill="#484f58" letter-spacing="2">README.md</text>
+  <text x="810" y="41" font-family="Courier New, monospace" font-size="11" fill="#238636" letter-spacing="1">&#9679; OPEN</text>
+  <rect x="0" y="56" width="900" height="1" fill="url(#lineGrad)"/>
+  <text x="48" y="118" font-family="Courier New, monospace" font-size="42" font-weight="700" fill="url(#nameGrad)" letter-spacing="-1">harshvardhan</text>
+  <text x="48" y="162" font-family="Courier New, monospace" font-size="42" font-weight="700" fill="url(#nameGrad)" letter-spacing="-1">agarwal</text>
+  <rect x="48" y="180" width="168" height="26" rx="3" fill="#161b22" stroke="#238636" stroke-width="1"/>
+  <text x="66" y="197" font-family="Courier New, monospace" font-size="11" fill="#3fb950" letter-spacing="0.5">backend engineer</text>
+  <rect x="226" y="180" width="210" height="26" rx="3" fill="#161b22" stroke="#1f6feb" stroke-width="1"/>
+  <text x="244" y="197" font-family="Courier New, monospace" font-size="11" fill="#58a6ff" letter-spacing="0.5">open source contributor</text>
+  <rect x="446" y="180" width="148" height="26" rx="3" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+  <text x="464" y="197" font-family="Courier New, monospace" font-size="11" fill="#8b949e" letter-spacing="0.5">NIT Jalandhar</text>
+  <rect x="630" y="70" width="240" height="130" rx="4" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <text x="650" y="96" font-family="Courier New, monospace" font-size="10" fill="#484f58" letter-spacing="2">METRICS</text>
+  <line x1="640" y1="102" x2="860" y2="102" stroke="#21262d" stroke-width="1"/>
+  <text x="650" y="122" font-family="Courier New, monospace" font-size="11" fill="#8b949e">OSS merges</text>
+  <text x="840" y="122" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#3fb950" text-anchor="end">3 &#10003;</text>
+  <text x="650" y="142" font-family="Courier New, monospace" font-size="11" fill="#8b949e">concurrent calls</text>
+  <text x="840" y="142" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#58a6ff" text-anchor="end">10k+</text>
+  <text x="650" y="162" font-family="Courier New, monospace" font-size="11" fill="#8b949e">DSA solved</text>
+  <text x="840" y="162" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#e3b341" text-anchor="end">300+</text>
+  <text x="650" y="182" font-family="Courier New, monospace" font-size="11" fill="#8b949e">reliability</text>
+  <text x="840" y="182" font-family="Courier New, monospace" font-size="13" font-weight="700" fill="#f85149" text-anchor="end">99.8%</text>
+  <rect x="0" y="239" width="900" height="1" fill="url(#lineGrad)"/>
+  <text x="48" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">Node.js</text>
+  <text x="118" y="261" font-family="Courier New, monospace" font-size="11" fill="#30363d">&#183;</text>
+  <text x="130" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">TypeScript</text>
+  <text x="212" y="261" font-family="Courier New, monospace" font-size="11" fill="#30363d">&#183;</text>
+  <text x="224" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">Python</text>
+  <text x="280" y="261" font-family="Courier New, monospace" font-size="11" fill="#30363d">&#183;</text>
+  <text x="292" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">LangChain</text>
+  <text x="374" y="261" font-family="Courier New, monospace" font-size="11" fill="#30363d">&#183;</text>
+  <text x="386" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">Redis</text>
+  <text x="430" y="261" font-family="Courier New, monospace" font-size="11" fill="#30363d">&#183;</text>
+  <text x="442" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">PostgreSQL</text>
+  <text x="538" y="261" font-family="Courier New, monospace" font-size="11" fill="#30363d">&#183;</text>
+  <text x="550" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">Docker</text>
+  <text x="602" y="261" font-family="Courier New, monospace" font-size="11" fill="#30363d">&#183;</text>
+  <text x="614" y="261" font-family="Courier New, monospace" font-size="11" fill="#484f58">AWS</text>
+</svg>
